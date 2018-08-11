@@ -1,0 +1,6 @@
+I chose asciidoc instead of something else, like markdown, because of the extra power and the ability to build and include diagrams.  There are several java projects using asciidoc: Springframework.
+
+setup
+The asciidoc for this project is under /src/docs/asciidoc.
+Setup is done build.gradle but I want to move it to its own .gradle file.
+running gradlew asciidoc creates the doc.

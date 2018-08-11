@@ -1,0 +1,7 @@
+setup gradle
+
+Documetation for setting up gradle is: https://docs.gradle.org/current/userguide/gradle_wrapper.html.  For this project, I ran
+ran gradle wrapper
+
+
+Use wrapper

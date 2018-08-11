@@ -1,0 +1,6 @@
+Multiple IDEs could be support but I am starting with Intellij.  The IDEs should include should include as much as the can of the tools used in gradle.  Static code checks is an example of tooling that could exist in both gradle and the IDE.
+
+There are 2 ways to create an Intellij project from the project source.  One is the "Project from Existing Sources" from the IDE.  The other is the Idea plugin from gradle.  I believe the the plugin may be the better option.
+
+Intellij Problems
+Soft Wrap on asciidoc.  Soft Wrap needs to be setup on each adoc file instead a single setting.  Not huge, just annoying.

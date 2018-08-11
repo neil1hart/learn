@@ -1,0 +1,10 @@
+Git repositories should be setup with 2 files at the start: .gitignore and .gitatrributes.  .gitignore is the more used file, while .gitattributes protects unix and mac users from those on windows.
+
+.gitattributes should be setup at the beginning of the project.  Adding the files later may cause problem updating files that offend the settings.  There is a site that looks at automating this: https://gitattributes.io/.  Docucmentation for this files is: https://git-scm.com/docs/gitattributes
+
+.gitignore can be updated as the project grows but a nice site to get most of the setup is: https://www.gitignore.io.  The original setup was built with https://www.gitignore.io/api/java,gradle,intellij.  Documentatio is: https://git-scm.com/docs/gitignore
+
+
+Fork and Pull Requests
+
+

@@ -1,0 +1,30 @@
+I wanted to look at building a project while learning new technologies and techniques. I also wanted to document everything along the way.  This is that effort.
+
+The list of technologies are:
+ - Git
+ - Asciidoc
+ - Gradle
+ - Java
+ - Lombok
+ - Spring 5
+ - Springboot 2
+ - Junit 5
+ - Docker
+
+
+setup gradle
+
+
+
+setup git
+
+
+setup doc
+using asciidoc
+gradle setup
+
+todo
+move asciidoc info into asciidoc.gradle
+investigat buildSrc
+
+
