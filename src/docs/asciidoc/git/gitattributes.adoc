@@ -1,0 +1,2 @@
+= Protect you git files from Windows developers
+
