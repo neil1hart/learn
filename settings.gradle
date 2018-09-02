@@ -9,4 +9,5 @@
 
 rootProject.name = 'learn'
 include 'events'
+include 'petclinic/person'
 
